@@ -1,0 +1,19 @@
+[submodule "JayVora-SerpentCS/OdooEduERP"]
+	path = JayVora-SerpentCS/OdooEduERP
+	url = git@github.com:JayVora-SerpentCS/OdooEduERP.git
+	branch = 10.0
+
+[submodule "hidext/infinity"]
+	path = hidext/infinity
+	url = git@github.com:hidext/infinity.git
+	branch = 10.0
+
+[submodule "OCA/management-system"]
+	path = hidext/infinity
+	url = git@github.com:OCA/management-system.git
+	branch = 10.0
+
+[submodule "infinity/management-system"]
+	path = infinity/management-system
+	url = git@github.com:OCA/management-system.git
+	branch = 10.0
