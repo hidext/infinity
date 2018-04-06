@@ -2,3 +2,8 @@
 	path = JayVora-SerpentCS/OdooEduERP
 	url = git@github.com:JayVora-SerpentCS/OdooEduERP.git
 	branch = 10.0
+
+[submodule "hidext/infinity"]
+	path = hidext/infinity
+	url = git@github.com:hidext/infinity.git
+	branch = 10.0
