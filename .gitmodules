@@ -7,3 +7,8 @@
 	path = hidext/infinity
 	url = git@github.com:hidext/infinity.git
 	branch = 10.0
+
+[submodule "OCA/management-system"]
+	path = OCA/management-system
+	url = git@github.com:OCA/management-system.git
+	branch = 10.0
