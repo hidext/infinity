@@ -17,3 +17,8 @@
 	path = infinity/management-system
 	url = git@github.com:OCA/management-system.git
 	branch = 10.0
+
+[submodule "hidext/management-system"]
+	path = hidext/management-system
+	url = git@github.com:OCA/management-system.git
+	branch = 10.0
