@@ -22,3 +22,8 @@
 	path = hidext/management-system
 	url = git@github.com:OCA/management-system.git
 	branch = 10.0
+
+[submodule "hidext/knowledge"]
+	path = hidext/knowledge
+	url = git@github.com:OCA/knowledge.git
+	branch = 10.0
